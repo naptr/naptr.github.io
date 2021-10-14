@@ -4,4 +4,5 @@
 
 ## Projects
 <a href="https://ziunadev.github.io/chuck-norris-jokes-generator-react" target="_blank" >Chuck Norris Jokes Generator with ReactJS</a>
+<br>
 <a href="https://ziunadev.github.io/hala-resto/" target="_blank">Hala Resto Landing Page (Mobile Ver)</a>
